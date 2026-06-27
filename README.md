@@ -16,6 +16,7 @@ I’m a software engineer.
 </p>
 
 ## Github Activity
+<!-- STATS:START -->
 <table align="center">
   <tr>
     <td align="center"><b>438</b><br/><sub>Stars</sub></td>
@@ -25,3 +26,4 @@ I’m a software engineer.
     <td align="center"><b>21</b><br/><sub>Repositories</sub></td>
   </tr>
 </table>
+<!-- STATS:END -->
