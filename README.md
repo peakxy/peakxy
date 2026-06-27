@@ -15,31 +15,13 @@ I’m a software engineer.
   <a href="mailto:xu1feng218@163.com"><img src="https://img.shields.io/badge/Email-xu1feng218%40163.com-168de2?logo=maildotru&logoColor=white&labelColor=111827" alt="Email" /></a>
 </p>
 
-<table width="100%" align="center">
+## Github Activity
+<table align="center">
   <tr>
-    <td>
-      <a href="https://#gh-light-mode-only">
-        <img
-          src="https://github-readme-stats-one-bice.vercel.app/api?username=peakxy&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-          height="200" />
-      </a>
-      <a href="https://#gh-dark-mode-only">
-        <img
-          src="https://github-readme-stats-one-bice.vercel.app/api?username=peakxy&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-          height="200" />
-      </a>
-    </td>
-    <td>
-      <a href="https://#gh-light-mode-only">
-        <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=peakxy&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
-          height="200" />
-      </a>
-      <a href="https://#gh-dark-mode-only">
-        <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=peakxy&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark"
-          height="200" />
-      </a>
-    </td>
+    <td align="center"><b>438</b><br/><sub>Stars</sub></td>
+    <td align="center"><b>2,363</b><br/><sub>Commits</sub></td>
+    <td align="center"><b>33</b><br/><sub>Pull Requests</sub></td>
+    <td align="center"><b>0</b><br/><sub>Issues</sub></td>
+    <td align="center"><b>21</b><br/><sub>Repositories</sub></td>
   </tr>
 </table>
