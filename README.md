@@ -9,6 +9,7 @@ I’m a software engineer.
 - Current：[Meitu](https://www.meitu.com/en/)
 - Previously：[@SeeleAI](https://github.com/seeleAI), [Kingsoft Seayoo](https://www.seayoo.com/)
 
+## Contact
 <p>
   <a href="https://www.xiaohongshu.com/user/profile/5ce8c43a0000000005026fa4"><img src="https://img.shields.io/badge/小红书-程序员羊肉-ff2442?labelColor=111827" alt="小红书" /></a>
   <a href="mailto:xu1feng218@163.com"><img src="https://img.shields.io/badge/Email-xu1feng218%40163.com-168de2?logo=maildotru&logoColor=white&labelColor=111827" alt="Email" /></a>
