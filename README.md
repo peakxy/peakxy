@@ -1,4 +1,4 @@
-# Hi, I'm Peakxy 👋
+# About me 👋
 I’m a software engineer.
 
 ## Tech Stack
