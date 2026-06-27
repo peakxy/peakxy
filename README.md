@@ -1,6 +1,6 @@
 # Hi, I'm Peakxy 👋
 - Born in 2002, and earned my master's degree from Wuhan University of Science and Technology.
-- Previously interned at [Seeles](https://www.seeles.ai/), [Kingsoft Seayoo](https://www.seayoo.com/), and [Meitu](https://www.meitu.com/en/).
+- Previously interned at [Seele](https://www.seeles.ai/), [Kingsoft Seayoo](https://www.seayoo.com/), and [Meitu](https://www.meitu.com/en/).
 - Open-source enthusiast, comfortable building with Java, Go, and TypeScript.
 <p>
   <a href="https://www.xiaohongshu.com/user/profile/5ce8c43a0000000005026fa4"><img src="https://img.shields.io/badge/小红书-程序员羊肉-ff2442?labelColor=111827" alt="小红书" /></a>
