@@ -20,7 +20,7 @@ I’m a software engineer.
 <table align="center">
   <tr>
     <td align="center"><b>28</b><br/><sub>Stars</sub></td>
-    <td align="center"><b>128</b><br/><sub>Commits</sub></td>
+    <td align="center"><b>129</b><br/><sub>Commits</sub></td>
     <td align="center"><b>20</b><br/><sub>Pull Requests</sub></td>
     <td align="center"><b>4</b><br/><sub>Issues</sub></td>
     <td align="center"><b>6</b><br/><sub>Repositories</sub></td>
