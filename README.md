@@ -19,7 +19,7 @@ I’m a software engineer.
 <!-- STATS:START -->
 <table align="center">
   <tr>
-    <td align="center"><b>38</b><br/><sub>Stars</sub></td>
+    <td align="center"><b>39</b><br/><sub>Stars</sub></td>
     <td align="center"><b>205</b><br/><sub>Commits</sub></td>
     <td align="center"><b>9</b><br/><sub>Pull Requests</sub></td>
     <td align="center"><b>9</b><br/><sub>Issues</sub></td>
