@@ -14,7 +14,7 @@ I’m a software engineer who love tinkering.
 <table align="center">
   <tr>
     <td align="center"><b>42</b><br/><sub>Stars</sub></td>
-    <td align="center"><b>250</b><br/><sub>Commits</sub></td>
+    <td align="center"><b>252</b><br/><sub>Commits</sub></td>
     <td align="center"><b>9</b><br/><sub>Pull Requests</sub></td>
     <td align="center"><b>9</b><br/><sub>Issues</sub></td>
     <td align="center"><b>5</b><br/><sub>Repositories</sub></td>
