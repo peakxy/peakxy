@@ -1,5 +1,5 @@
 # About me 👋
-I’m a software engineer.
+I’m a software engineer who love tinkering.
 
 ## Tech Stack
 - **Java**
