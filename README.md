@@ -13,8 +13,8 @@ I’m a software engineer who love tinkering.
 <!-- STATS:START -->
 <table align="center">
   <tr>
-    <td align="center"><b>51</b><br/><sub>Stars</sub></td>
-    <td align="center"><b>474</b><br/><sub>Commits</sub></td>
+    <td align="center"><b>52</b><br/><sub>Stars</sub></td>
+    <td align="center"><b>475</b><br/><sub>Commits</sub></td>
     <td align="center"><b>10</b><br/><sub>Pull Requests</sub></td>
     <td align="center"><b>15</b><br/><sub>Issues</sub></td>
     <td align="center"><b>6</b><br/><sub>Repositories</sub></td>
