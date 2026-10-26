@@ -1,13 +1,12 @@
 # About me 👋
 I’m a software engineer who love tinkering.
 
-## Tech Stack
-- **Java**
-- Currently learning **Go**, **Rust** and **TypeScript**.
-
-## Intern Experience
-- Current：[@Meitu](https://www.meitu.com/en/)
-- Previously：[@SeeleAI](https://github.com/seeleAI), [@Kingsoft Seayoo](https://www.seayoo.com/)
+<a href="https://ghfind.com/u/peakxy?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/peakxy?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/peakxy?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 ## Github Activity
 <!-- STATS:START -->
