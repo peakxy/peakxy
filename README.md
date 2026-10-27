@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center"><b>64</b><br/><sub>Stars</sub></td>
-    <td align="center"><b>758</b><br/><sub>Commits</sub></td>
+    <td align="center"><b>759</b><br/><sub>Commits</sub></td>
     <td align="center"><b>16</b><br/><sub>Pull Requests</sub></td>
     <td align="center"><b>22</b><br/><sub>Issues</sub></td>
     <td align="center"><b>6</b><br/><sub>Repositories</sub></td>
